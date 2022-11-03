@@ -10,4 +10,4 @@ const MovieList = (props) => {
   );
 };
 
-export default MovieList;
+export default MovieList; 
